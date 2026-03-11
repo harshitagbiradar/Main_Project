@@ -4,6 +4,6 @@ public class Main {
 	
 	void print()
 	{
-		System.out.println("Adding print method to team members");
+		System.out.println("Adding print method to team Members");
 	}
 }
